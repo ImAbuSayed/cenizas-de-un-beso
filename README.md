@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Cenizas de un beso |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cenizas-de-un-beso/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Cenizas de un beso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-de-un-beso/) |
+| **Get License** | [License this song: Cenizas de un beso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-de-un-beso/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `e8fb36abb70f99a2e8061fcdc66e54e43bfad3d099cfb7eb429440c3ace7645e` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `1d102c29324fa7cb86d16dfd95895d2b191078df16511e8703356d5d74ff0ec1` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
