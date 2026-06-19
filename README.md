@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cenizas-de-un-beso/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Cenizas de un beso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-de-un-beso/) |
+| **Get License** | [Request Licensing for Cenizas de un beso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-de-un-beso/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 3e05d7e7e04d5906a7ef74b1a338a492a56b1845
+> Quema la calle, mami, tú eres el fuego
+> Bajo la luz de neón, seguimos el juego
+> Tus labios saben a peligro y al deseo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
