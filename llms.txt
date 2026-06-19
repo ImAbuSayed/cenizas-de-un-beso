@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cenizas-de-un-beso/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Cenizas de un beso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-de-un-beso/) |
+| **Get License** | [Official Music Licensing for Cenizas de un beso](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cenizas-de-un-beso/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3701)
+- [Telegram](https://t.me/AbuSayedMusic/3702)
 
 ---
 
